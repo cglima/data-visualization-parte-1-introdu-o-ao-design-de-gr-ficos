@@ -1,9 +1,42 @@
-# Título do curso ou tutorial
+# Data Visualization parte 1: introdução ao design de gráficosData Visualization parte 1: introdução ao design de gráficos
 
-Descrição do curso ou tutorial
+Neste curso, vamos:
+
+- Entenda quais gráficos mais adequados para mostrar uma determinada informação.
+- Aprenda a aprimorar seus gráficos retirando informações desnecessárias.
+- Saiba como posicionar elementos no gráfico segundo um padrão de leitura.
+- Aprenda a usar cores num gráfico ou em seus elementos.
+- Veja como alguns modos de mostrar a informação podem ser arriscados.
 
 ## Ambiente de desenvolvimento
 
 Para instalar as bibliotecas do projeto, basta executar o comando:
 
-    $ pip install -r requirements.txt
+Ao executar o projeto a primeira vez:
+
+1. Clonar projeto no github
+
+2. Instalar Python 3.9.2
+
+3. Instalar Anaconda
+
+Após instalar o Anaconda, executar , no terminal, o comando
+
+```shell
+    conda init
+```
+
+4. Criar e ativar ambiente virtual
+
+- É muito importante que o ambiente virtual seja salvo em uma pasta com um nome DIFERENTE de .env. Uma sugestão é .venv.
+
+```shell
+    conda create  -p .venv python=3.9.2
+    conda activate ../.venv
+```
+
+- Para instalar as bibliotecas do projeto, basta executar o comando:
+
+```shell
+$ pip install -r requirements.txt
+```
