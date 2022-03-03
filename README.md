@@ -10,33 +10,18 @@ Neste curso, vamos:
 
 ## Ambiente de desenvolvimento
 
-Para instalar as bibliotecas do projeto, basta executar o comando:
+Esse curso  tem como foco a criação de gráficas nas Planilhas Google, para posteriormente personalizá-los com outra ferramenta. Independente da ferramenta, o foco é nas visualizações.
 
-Ao executar o projeto a primeira vez:
+> Aplicações online da Google.
 
-1. Clonar projeto no github
+Para usá-los, basta que você tenha uma conta no Google. Segue os links:
 
-2. Instalar Python 3.9.2
+[Planilha Google](https://www.google.com/intl/pt-BR/sheets/about/)
+[Desenhos](https://docs.google.com/drawings/d/1ouXggHlVHXW2RagNDJ9vu2KKfKs1mp4d8IL-faMV7UY/edit)
 
-3. Instalar Anaconda
+Para configurar o ambiente segundo as orientações do curso:
+[Configurando o ambiente](https://cursos.alura.com.br/course/data-visualization/task/35170)
 
-Após instalar o Anaconda, executar , no terminal, o comando
+1. Baixar a planilha inicial do curso.
 
-```shell
-    conda init
-```
-
-4. Criar e ativar ambiente virtual
-
-- É muito importante que o ambiente virtual seja salvo em uma pasta com um nome DIFERENTE de .env. Uma sugestão é .venv.
-
-```shell
-    conda create  -p .venv python=3.9.2
-    conda activate ../.venv
-```
-
-- Para instalar as bibliotecas do projeto, basta executar o comando:
-
-```shell
-$ pip install -r requirements.txt
-```
+OBS: Eu vou utilizar o Excel para realizar este curso.
