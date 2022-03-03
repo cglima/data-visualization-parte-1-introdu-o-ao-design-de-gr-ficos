@@ -20,8 +20,6 @@ Para usá-los, basta que você tenha uma conta no Google. Segue os links:
 [Desenhos](https://docs.google.com/drawings/d/1ouXggHlVHXW2RagNDJ9vu2KKfKs1mp4d8IL-faMV7UY/edit)
 
 Para configurar o ambiente segundo as orientações do curso:
-[Configurando o ambiente](https://cursos.alura.com.br/course/data-visualization/task/35170)
 
 1. Baixar a planilha inicial do curso.
-
-OBS: Eu vou utilizar o Excel para realizar este curso.
+2. Seguir os passos do link (https://cursos.alura.com.br/course/data-visualization/task/35170)
