@@ -37,3 +37,22 @@ Para saber mais sobre a 'importância da hierarquia visual':
 
 [A importância da Hierarquia Visual](https://designculture.com.br/a-importancia-da-hierarquia-visual/)
 
+## Aula 03
+
+- Como entender os dados
+
+Ao compararmos os gráficos, por vezes, os indicadores estatísticos como média
+e mediana não são o bastante para entendermos o que acontece com os nossos dados.
+
+Quando nos deparamos com essa situação, o que podemos fazer?
+
+Encontrar um modo de visualizar os dados é o recomendado. Por vezes a média e a
+mediana não são suficientes para compreendermos os dados que temos, é apenas
+por meio da visualização que conseguimos realmente entendê-los.
+
+Para entender melhor sobre Media e mediana:
+
+[Estatística Descritiva]()http://www.each.usp.br/rvicente/Guedes_etal_Estatistica_Descritiva.pdf
+
+[Introdução à Estatística](http://www.usp.br/gmab/discip/zab5711/aula1_impressao.pdf)
+
