@@ -56,3 +56,32 @@ Para entender melhor sobre Media e mediana:
 
 [Introdução à Estatística](http://www.usp.br/gmab/discip/zab5711/aula1_impressao.pdf)
 
+## Aula 04
+
+- Função da pizza
+
+Este tipo de gráfico apresenta mais contras do que prós para passar alguma
+informação.
+
+No entanto, o gráfico de pizza explicita a relação das partes com o todo.
+
+- Discussões sobre a pizza
+
+  [Edard Tufte - Pai da Visualização de dados](https://pt.wikipedia.org/wiki/Edward_Tufte)
+
+> Uma tabela é geralmente sempre melhor do que um gráfico de pizza "burro"; o único design pior do que um gráfico de pizza são vários deles, pois aí o leitor é convidado a comparar quantidades que estão em confusão espacial tanto dentro como entre os gráficos [...] Dada a sua baixa densidade e falha em ordenar os números em uma dimensão visual, gráficos de pizza nunca deveriam ser usados.
+
+[Nathan Yau - Estatístico](https://flowingdata.com/)
+
+Nathan defende o uso de gráficos de pizza, porque:
+
+- não apresentam mais de dois valores na pizza;
+- usam o tamanho da pizza proporcional ao tamanho do dado;
+- usam outra pizza para comparar dois dados diferentes.
+
+Resumo: gráfico de pizza só é recomendado como última alternativa de
+representação em uma visualização.
+
+- Boa visualização de dados
+
+Comunicar uma informação de modo rápido, claro e preciso sem que façamos esforço para entendê-la.
