@@ -11,4 +11,29 @@ indicado para visualização dos dados é o `Gráfico de Linhas`, pois,
 por ser uma linha, facilita para acompanharmos a progressão desses dados.
 
 Ao criar o gráfico precisa-se levar em conta o uso de elementos para guiar onde
-vai o olhar do leitor. 
+vai o olhar do leitor.
+
+## Aula 02
+
+Criando gráficos da Ana, João e Camila
+
+- Tendência dos dados
+
+Podemos oferecer informações sobre a tendência que os dados possuem.
+
+É importante mostrar a tendência pois ela funciona como um indicador de alguma
+ação que provoque mudanças nos dados do gráfico.
+A tendência é importante para entendermos qual o curso mais provável dos nossos
+dados caso a situação continue do mesmo modo.
+
+- Visão Z
+
+Por natureza tendemos a ler em zigue zag. Dessa forma, este seria a melhor forma
+de apresentar as informações em um gráfico, por exemplo.
+
+O movimento mapeado e natural dos nossos olhos é fazer um zigue zague, ou z ao ler informações.
+
+Para saber mais sobre a 'importância da hierarquia visual':
+
+[A importância da Hierarquia Visual](https://designculture.com.br/a-importancia-da-hierarquia-visual/)
+
