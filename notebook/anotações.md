@@ -85,3 +85,13 @@ representação em uma visualização.
 - Boa visualização de dados
 
 Comunicar uma informação de modo rápido, claro e preciso sem que façamos esforço para entendê-la.
+
+## Aula 05
+
+- Unidade
+
+Quando estamos falando de dados, por vezes é importante que passemos a sensação de unidade. Para não darmos a impressão de que um gráfico tem duas partes distintas ou que estão brigando entre si por atenção.
+
+Como resolver isso?
+
+Mantendo uma uniformidade no tom das cores. Quando usamos tons da mesma cor, passamos essa sensação de que os elementos de um gráfico fazem parte de um todo.
